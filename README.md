@@ -1,1 +1,1 @@
-# Some algorithms for contests
+### Some algorithms for contests
