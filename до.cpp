@@ -8,7 +8,7 @@ using namespace std;
 const int MAXN = 211111;
 
 vector <int> a;
-int tree[MAXN];
+int tree[4 * MAXN];
 
 void build(int tl, int tr, int v){
     if(tl == tr){
